@@ -7,9 +7,9 @@
 https://gitter.im/bh2018paris/24-ToolsMetadata
  
 * ref links
-  * [[bio.tools|https://bio.tools/]]  
-  * [[bio.tools documentation|https://biotools.readthedocs.io/en/latest/]]
-  * 
+  * bio.tools https://bio.tools/  
+  * bio.tools documentation https://biotools.readthedocs.io/en/latest/  
+  * Google software markup https://developers.google.com/search/docs/data-types/software-app  
   
 * Member
   * Jun-ichi Onami
