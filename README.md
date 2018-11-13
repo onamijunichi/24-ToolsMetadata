@@ -18,4 +18,7 @@
 
 ### Examples
 
+### Ontologies
+  * EDAM http://purl.bioontology.org/ontology/EDAM
+
 
