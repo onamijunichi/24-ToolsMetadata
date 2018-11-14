@@ -1,0 +1,13 @@
+{
+  "@context": "http://schema.org",
+  "@type": "SoftwareApplication",
+    "name": "BLAST (NIH)",
+  "description": "A tool that finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance.",
+  "softwareVersion": "",
+  "url": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+  "citation": "https://dx.doi.org/10.1016/S0022-2836(05)80360-2",
+  "license": "",
+  "publisher": "",
+  "operatingSystem": ["Linux", "Mac"],
+  "keywords": ["Sequence analysis", "Molecular genetics", "Statistics and probability", "Genomics", "Mature",  "Free of charge", "Command-line tool", "Web service"]
+}
